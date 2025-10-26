@@ -1,0 +1,11 @@
+gemini-english-tutor/  <-- THIS IS YOUR ONE MAIN FOLDER
+├── components/         <-- A folder named "components"
+│   └── (all your component files are in here)
+├── services/           <-- A folder named "services"
+│   └── (all your service files are in here)
+├── App.tsx
+├── constants.ts
+├── index.html
+├── index.tsx
+├── metadata.json
+└── types.ts
